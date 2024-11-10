@@ -1,0 +1,3 @@
+LANGUAGE_TEXTS = {
+    "en"
+}
